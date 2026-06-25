@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.DS_Store
+data/stories.db
+data/cache/
+data/logs/
+frontend/__pycache__/
+backend/__pycache__/
+tests/__pycache__/
